@@ -1,0 +1,12 @@
+| Command                | Purpose                      |
+| ---------------------- | ---------------------------- |
+| uv init                | Create project               |
+| uv venv                | Create virtual env           |
+| uv add pandas          | Install package              |
+| uv remove pandas       | Uninstall package            |
+| uv sync                | Install project dependencies |
+| uv run file.py         | Run script                   |
+| uv lock                | Create lock file             |
+| uv python list         | List Python versions         |
+| uv python install 3.12 | Install Python               |
+| uv pip list            | List installed packages      |
